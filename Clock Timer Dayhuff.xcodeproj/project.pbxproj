@@ -13,6 +13,7 @@
 		E1B5587C2C338BD9000717F3 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E1B5587B2C338BD9000717F3 /* Base */; };
 		E1B5587E2C338BDB000717F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1B5587D2C338BDB000717F3 /* Assets.xcassets */; };
 		E1B558812C338BDB000717F3 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = E1B558802C338BDB000717F3 /* Base */; };
+		E1B5588D2C33E3FB000717F3 /* alarm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E1B5588C2C33E3FB000717F3 /* alarm.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E1B5587D2C338BDB000717F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1B558802C338BDB000717F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1B558822C338BDB000717F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E1B5588C2C33E3FB000717F3 /* alarm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E1B558742C338BD9000717F3 /* AppDelegate.swift */,
 				E1B558762C338BD9000717F3 /* SceneDelegate.swift */,
 				E1B558782C338BD9000717F3 /* ViewController.swift */,
+				E1B5588C2C33E3FB000717F3 /* alarm.mp3 */,
 				E1B5587A2C338BD9000717F3 /* Main.storyboard */,
 				E1B5587D2C338BDB000717F3 /* Assets.xcassets */,
 				E1B5587F2C338BDB000717F3 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1B5588D2C33E3FB000717F3 /* alarm.mp3 in Resources */,
 				E1B5587E2C338BDB000717F3 /* Assets.xcassets in Resources */,
 				E1B558812C338BDB000717F3 /* Base in Resources */,
 				E1B5587C2C338BD9000717F3 /* Base in Resources */,
